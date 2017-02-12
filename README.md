@@ -12,3 +12,6 @@
 4. ```npm install```
 6. ```run gulp``` 
 
+
+#####Banina Yana Dmitrievna.
+######Created gulp tasks for generate and copy sprites
